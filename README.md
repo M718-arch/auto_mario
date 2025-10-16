@@ -1,1 +1,1 @@
-#auto_mario
+auto_mario
